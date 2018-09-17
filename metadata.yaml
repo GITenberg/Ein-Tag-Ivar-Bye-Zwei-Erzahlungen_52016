@@ -1,5 +1,5 @@
 _repo: Ein-Tag-Ivar-Bye-Zwei-Erzahlungen_52016
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   translators:
   - agent_name: Klett, Gertrud Ingeborg
@@ -17,6 +17,9 @@ contributor:
     deathdate: 1895
     gutenberg_agent_id: '26224'
     url: http://www.gutenberg.org/2009/agents/26224
+covers:
+- cover_type: archival
+  image_path: 52016-h/images/cover-page.jpg
 creator:
   author:
     agent_name: Bjørnson, Bjørnstjerne
@@ -29,6 +32,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1772
     wikipedia: http://en.wikipedia.org/wiki/Bjørnstjerne_Bjørnson
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/52016#Ein-Tag-Ivar-Bye-Zwei-Erzahlungen
 gutenberg_issued: '2016-05-07'
 gutenberg_type: Text
 identifiers:
