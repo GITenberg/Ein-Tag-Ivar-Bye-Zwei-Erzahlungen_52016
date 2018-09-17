@@ -1,0 +1,45 @@
+_repo: Ein-Tag-Ivar-Bye-Zwei-Erzahlungen_52016
+_version: 0.0.1
+contributor:
+  translators:
+  - agent_name: Klett, Gertrud Ingeborg
+    alias: Klett, G. I.
+    birthdate: 1871
+    deathdate: 1917
+    gutenberg_agent_id: '46634'
+    url: http://www.gutenberg.org/2009/agents/46634
+  - agent_name: Borch, M. von (Marie)
+    aliases:
+    - Borch, Marie von
+    - Borch, Maria von
+    - Von Borch, M. (Marie)
+    birthdate: 1853
+    deathdate: 1895
+    gutenberg_agent_id: '26224'
+    url: http://www.gutenberg.org/2009/agents/26224
+creator:
+  author:
+    agent_name: Bjørnson, Bjørnstjerne
+    aliases:
+    - Björnson, Björnstjerne
+    - Bjornson, Bjornstjerne
+    birthdate: 1832
+    deathdate: 1910
+    gutenberg_agent_id: '1772'
+    url: http://www.gutenberg.org/2009/agents/1772
+    wikipedia: http://en.wikipedia.org/wiki/Bjørnstjerne_Bjørnson
+description: ''
+gutenberg_issued: '2016-05-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52016'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PT'
+- !lcsh 'Norwegian fiction -- Translations into German'
+- GITenberg
+title: 'Ein Tag; Ivar Bye: Zwei Erzählungen'
+url: http://www.gutenberg.org/ebooks/52016
